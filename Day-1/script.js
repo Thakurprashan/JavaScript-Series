@@ -35,9 +35,7 @@ let y = 20;
 
 console.log(x/y); // arithmetic operator division //
 
-
 // Comparison Operators
-
 
 let a = "20";
 let b = 20;
