@@ -12,6 +12,7 @@ num= 20 ;
 // console.log(num1);  output Cannot access 'num1' before initialization
 // let num1;
 
+
 // Arithmetic operators
 
 let p = 30;
