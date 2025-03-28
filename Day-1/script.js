@@ -1,8 +1,6 @@
 console.log("Js Day 1");
 
-
-
-// Hoisting in JavaScript 
+                                       // Hoisting in JavaScript //
 
 var num ;
 console.log(num); // Outputs "undefined" since the initialization of "num" is not hoisted 
