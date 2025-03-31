@@ -64,7 +64,6 @@ console.log(n >=m);
 
 let o= 50;
 let z = 30;
-
 console.log(z <=o);
 
 
