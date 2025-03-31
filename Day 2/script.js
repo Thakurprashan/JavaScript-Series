@@ -1,5 +1,6 @@
 console.log("JS DAY 2");
-// Increment and Decrement Operator
+
+                                                          // Increment and Decrement Operator
 
 let a1=20;
 console.log(++a1, a1, --a1,a1--,a1--,a1,a1,a1--,a1++,++a1,++a1,a1++,--a1);
@@ -26,7 +27,7 @@ let a9=20;
 console.log(--a9,++a9,a9--,a9,a9++,a9--,--a9);
 
 
-// Logical Operators
+                                                                      // Logical Operators
 
 let  x=15;
 let  y=20;
