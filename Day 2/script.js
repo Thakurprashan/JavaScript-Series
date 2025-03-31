@@ -32,17 +32,14 @@ let  x=15;
 let  y=20;
 console.log(x>y && y>x);   // output false
 
-
 let  c=20;
 let  d=20;
 console.log(c===d && d==c);  // output true
-
 
 let e=20;
 let f="20";
 console.log(e!==f && f==e);   // output true
  
-
 let g=20;
 let h="20";
 console.log(g===g || h==g); // output true
