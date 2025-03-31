@@ -40,7 +40,6 @@ console.log(b == a);
 
 let c= "20";
 let d = 20;
-
 console.log(d === c);
 
 let e= "20";
