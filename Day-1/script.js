@@ -6,10 +6,9 @@ var num ;
 console.log(num); // Outputs "undefined" since the initialization of "num" is not hoisted 
 num= 20 ; 
 
- num1=20;
- console.log(num1);  output Cannot access 'num1' before initialization
- let num1;
-
+num1=20;
+console.log(num1);  output Cannot access 'num1' before initialization
+let num1;
 
 // Arithmetic operators
 
