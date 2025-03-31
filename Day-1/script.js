@@ -30,7 +30,6 @@ console.log(v%w); // arithmetic operator modulus //
 
 let x= 30;
 let y = 20;
-
 console.log(x/y); // arithmetic operator division //
 
 // Comparison Operators
