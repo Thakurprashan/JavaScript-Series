@@ -41,7 +41,7 @@ if (num4 % 2==0){
 }
 
 
-//                                                 Switch Statement 
+//                                                              Switch Statement 
 Q1.
   
 let marks=prompt("enter the marks");
