@@ -31,7 +31,7 @@ if (num3 % 2==0){
 }
 
 
-//                                                 Prompt
+//                                                                  Prompt
 
 let num4=prompt("enter the number");
 if (num4 % 2==0){
