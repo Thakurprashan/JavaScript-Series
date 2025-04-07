@@ -48,8 +48,7 @@ Comparison operators compare values and return a Boolean value of true or false.
  b. || or
  c. ! not
 
-
-                                                                   Day 3 Topics Covered :
+                                                             Day 3 Topics Covered :
 
 1.Decision Making
 Decision Making in programming is needed to make the logical decision for doing some operation.
@@ -58,7 +57,7 @@ if statement: It is used if some statement has to be executed based on single co
 
 if-else statement: It is used when some set of code has to be executed based on some given conditions otherwise another set of code has to be executed. The if statement alone tells us that if a condition is true it will execute a block of statements and if the condition is false then else block executed. We can use the else statement with if statement to execute a block of code when the condition is false.
 
-switch-Statement: It is used when multiple condition has to be evaluated based on single variable expression.
+Switch-Statement: It is used when multiple condition has to be evaluated based on single variable expression.
 
 2.prompt() method
 The prompt() method displays a dialog box that prompts the user for input.
