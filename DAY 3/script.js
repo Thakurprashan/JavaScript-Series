@@ -2,7 +2,7 @@
 
 
 
-//                                                         if-else statement 
+//                                                               if-else statement 
 
 let x=5;
 if(x>10){
