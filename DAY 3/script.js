@@ -40,7 +40,8 @@ if (num4 % 2==0){
 
 
 //                                                 Switch Statement 
-    
+Q1.
+  
 let marks=prompt("enter the marks");
 
 let grade;
@@ -69,7 +70,7 @@ switch(true)
 
 
 
-  //                                                    Prints the Day of week...
+  //                                                   Q2 Prints the Day of week...
 
 
   let num=prompt("enter the days");
