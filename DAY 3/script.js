@@ -101,7 +101,6 @@ switch(true)
     days="Sunday";
     break;
   }
-
 console.log(days)
 
 
