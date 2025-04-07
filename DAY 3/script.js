@@ -1,6 +1,8 @@
-// Decision Making and Conditional Statement  
+//                                                    Decision Making and Conditional Statement  
 
-//                                             if-else statement 
+
+
+//                                                         if-else statement 
 
 let x=5;
 if(x>10){
