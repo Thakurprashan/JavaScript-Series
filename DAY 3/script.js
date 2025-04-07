@@ -65,10 +65,9 @@ switch(true)
   case marks>=0 && marks<=10:
       grade="E";
       break;
-      default:"invalid marks" 
+  default:"invalid marks" 
   }
   console.log(grade); 
-
 
 
 
