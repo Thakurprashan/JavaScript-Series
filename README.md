@@ -1,4 +1,4 @@
-                                                             DAY-1 Topics Covered :
+                                                        DAY-1 Topics Covered :
 
 1.Hoisting in java script. Hoisting is a default behaviour of javascript where all the variable and function declarations are moved on top
 
@@ -62,6 +62,8 @@ Switch-Statement: It is used when multiple condition has to be evaluated based o
 2.prompt() method
 The prompt() method displays a dialog box that prompts the user for input.
 
+
+                                                                Day 4 Topics Covered :
 
 
 
