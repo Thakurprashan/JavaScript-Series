@@ -6,6 +6,11 @@ for(let i=1; i<=5;i++){
 }
 
                                                           //  for-in loop
+
+
+
+                                                         //  for-in loop
+
                                                           // while Loop
 j=0;
 while(j<10){
