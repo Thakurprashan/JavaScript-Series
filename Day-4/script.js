@@ -9,7 +9,8 @@ for(let i=1; i<=5;i++){
 
 
 
-name="Prashant"
+name="Prashant";
+class:7;
 
                                                          
 
