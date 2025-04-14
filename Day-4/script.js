@@ -16,4 +16,7 @@ j=0;
 while(j<10){
     console.log("the number is",j);
     j++;
-}
+} 
+
+
+                                                        //  Do While loop
