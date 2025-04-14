@@ -14,7 +14,8 @@ class:7;
 age:12;
 for (let key in student)
   {
-    
+    console.
+      
   }
 
                                                          
