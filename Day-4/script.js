@@ -15,6 +15,7 @@ for (let m=1; m<=5; m++){
 }
 
 
+
 let rows = 5;
 let pattern = "";
 
