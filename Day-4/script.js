@@ -16,7 +16,6 @@ for (let m=1; m<=5; m++){
 
 let rows = 5;
 
-// pattern variable carries the final pattern in string format
 let pattern = "";
 
 // outer loop runs for `rows` no. of times
