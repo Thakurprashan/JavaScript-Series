@@ -20,7 +20,7 @@ let pattern = "";
 
 
 for (let n = 1; n <= rows; n++) {
-   // Inner loop - I -> prints spaces
+
    for (let space = 1; space <= rows - n; space++) {
       pattern += " ";
    }
