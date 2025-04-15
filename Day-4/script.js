@@ -25,7 +25,7 @@ for (let n = 1; n <= rows; n++) {
       pattern += " ";
    }
 
-   // Inner Loop - II -> prints stars
+  
    for (let num = 1; num <= n; num++) {
       pattern += "*";
    }
