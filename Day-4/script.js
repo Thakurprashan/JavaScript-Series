@@ -16,26 +16,14 @@ for (let m=1; m<=5; m++){
 
 
 
-let rows = 5;
-let pattern = "";
-
-for (let n = 1; n <= rows; n++) {
-
-   for (let space = 1; space <= rows - n; space++) {
-      pattern += " ";
-   }
-   for (let num = 1; num <= n; num++) {
-      pattern += "*";
-   }
-   pattern += "\n";
+for(let a=5;a>=1;a--)
+{
+    let pattern="";
+   for(let b=1;b<=a;b++){
+      pattern = pattern + "*";
 }
 console.log(pattern);
-
-
-
-
-
-
+}
 
 
 
