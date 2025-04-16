@@ -26,6 +26,21 @@ console.log(pattern);
 }
 
 
+let c,d,e,pattern,n=5;
+for( c=1;c<=n;c++){
+    pattern="";
+    for( d=1;d<=n-c;d++){
+        pattern+=" ";
+    }
+    for(e=1;e<=c; e++){
+        pattern+= "*";
+    }
+    console.log(pattern);
+}
+
+
+
+
 
 //  for-in loop
 
