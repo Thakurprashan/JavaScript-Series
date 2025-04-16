@@ -26,6 +26,8 @@ console.log(pattern);
 }
 
 
+
+
 let c,d,e,pattern,n=5;
 for( c=1;c<=n;c++){
     pattern="";
