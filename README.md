@@ -48,7 +48,7 @@ Comparison operators compare values and return a Boolean value of true or false.
  b. || or
  c. ! not
 
-                                                             Day 3 Topics Covered :
+                                                       Day 3 Topics Covered :
 
 1.Decision Making
 Decision Making in programming is needed to make the logical decision for doing some operation.
