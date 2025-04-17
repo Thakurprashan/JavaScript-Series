@@ -72,13 +72,16 @@ Syntax-
 for (statement 1 ; statement 2 ; statement 3)
 { code here...}
 
+
 2.for/in - The JavaScript for…in loop iterates over the properties of an object. It allows you to access each key or property name of an object.
 Syntax-
 for (key in object) {    // Code}
 
+
 3.While - loops through a block of code while a specified condition is true or the while loop executes a block of code as long as a specified condition is true. In JavaScript, this loop evaluates the condition before each iteration and continues running as long as the condition remains true.
 Syntax-
 while (condition) {    Code block to be executed}
+
 
 4.Do/while - A do…while loop in JavaScript is a control structure where the code executes repeatedly based on a given boolean condition. It’s similar to a repeating if statement. One key difference is that a do…while loop guarantees that the code block will execute at least once, regardless of whether the condition is met initially or not.
 Syntax:
