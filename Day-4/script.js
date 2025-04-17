@@ -38,7 +38,6 @@ for(let i=1; i<=3;i++){
 }
 
 
-
 let p,q,e, pattern,n=5;
 for( p=1;p<=n;p++){
     pattern="";
