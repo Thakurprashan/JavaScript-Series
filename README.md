@@ -31,7 +31,7 @@ Comparison operators compare values and return a Boolean value of true or false.
 = Checks if the left operand is greater than or equal to the right operand
 
 
-                                                               Day 2 Topics Covered :
+                                                       Day 2 Topics Covered :
 
 1.The Increment Operator (++)
  The increment operator (++) adds 1 from the operand.
