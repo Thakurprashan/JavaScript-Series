@@ -96,6 +96,7 @@ for(let key in student){
     console.log(`${key}=${student[key]}`);
 }
 
+
 //                                                       For Of
  
 var set = new Set([1, 2, 3, 4, 5, 6]);
