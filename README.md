@@ -63,7 +63,7 @@ Switch-Statement: It is used when multiple condition has to be evaluated based o
 The prompt() method displays a dialog box that prompts the user for input.
 
 
-                                                                Day 4 Topics Covered :
+                                                        Day 4 Topics Covered :
 
 JavaScript loops is a control flow statement that allows code to be executed repeatedly based on a condition. It consists of three parts: initialization, condition, and increment/decrement.
 
