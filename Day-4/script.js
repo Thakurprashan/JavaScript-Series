@@ -49,6 +49,8 @@ for( p=1;p<=n;p++){
     }
     console.log(pattern);
 }
+
+
 for(let i=5; i<=10;i++){
     console.log("my name is karan singh",i);
 }
