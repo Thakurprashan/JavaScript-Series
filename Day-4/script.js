@@ -55,6 +55,7 @@ for(let i=5; i<=10;i++){
     console.log("my name is karan singh",i);
 }
 
+
 let c,d,patterns,s=5;
 for( c=1;c<=s;c++){
     patterns="";
@@ -68,11 +69,13 @@ for( c=1;c<=s;c++){
     console.log(patterns);
 }
 
+
 k=0;
 while(k<5){
     console.log("the number is",k);
     k++;
 }
+
 
 //                                                    Do While
 let l=1;
