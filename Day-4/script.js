@@ -4,6 +4,7 @@ for (let j=1; j<=9;j++){
     console.log("my name is Prashant tomar",j);
 }
 
+
 y=3
 for(z=1;z<=10;z++)
     console.log(`${y}*${z}=${y*z}`)
