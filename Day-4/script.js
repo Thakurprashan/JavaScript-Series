@@ -18,9 +18,11 @@ for (let m=1; m<=5; m++){
 }
 
 
+
 for(let i=1; i<=5;i++){
     console.log("my name is navya singh",i);
 }
+
 
 
 for(let a=5;a>=1;a--)
