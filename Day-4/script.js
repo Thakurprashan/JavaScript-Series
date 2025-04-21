@@ -1,9 +1,12 @@
+
+
 //                                                    For Loop
 
 
 for (let j=1; j<=9;j++){
     console.log("my name is Prashant tomar",j);
 }
+
 
 
 y=3
