@@ -14,6 +14,7 @@ for(z=1;z<=10;z++)
     console.log(`${y}*${z}=${y*z}`)
 
 
+
 for (let m=1; m<=5; m++){
    let pattern="";
    for(let n =1; n<=m; n++){
