@@ -3,6 +3,7 @@ console.log("JS DAY 2");
                                                         // Increment and Decrement Operator
 
 
+
 let a1=20;
 console.log(++a1, a1, --a1,a1--,a1--,a1,a1,a1--,a1++,++a1,++a1,a1++,--a1);
 
